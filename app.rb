@@ -1,4 +1,4 @@
-class App > BasicSinatra
+class App < Sinatra::Base
 
 
 get '/' do
